@@ -1,1 +1,3 @@
-master branc 
+master branch
+Here my second account created a new line of text.
+We will see how it behaves after a pull request
